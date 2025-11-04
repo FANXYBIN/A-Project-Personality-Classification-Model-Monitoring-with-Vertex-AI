@@ -1,0 +1,2 @@
+# A-Project-Personality-Classification-Model-Monitoring-with-Vertex-AI
+This project developed an AutoML personality classification model using Google Vertex AI, predicting whether users are introverts or extroverts based on social and behavioural traits.   The model lifecycle included training, evaluation, deployment, and automated monitoring to detect input drift, prediction drift, and feature attribution drift.
